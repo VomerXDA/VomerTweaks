@@ -77,7 +77,7 @@ Get this app: https://play.google.com/store/apps/details?id=com.ryosoftware.cput
 
 Check Max CPU - it should be under-clocked: 
 
-<img src="https://i.imgur.com/60j6SXS.png">
+<img src="http://i.imgur.com/iZECeF6.png">
 
 # Additional Recommendations:
 
