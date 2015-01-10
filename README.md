@@ -14,50 +14,49 @@ Look for these awesome folks on XDA Developers and send them a nice thank you:
 
 @vomer / @JNewms / @The Gingerbread Man / @zephiK / @franciscofranco
 
-[B][COLOR="DeepSkyBlue"]# Donate[/COLOR][/B]
+# Donate
 
-[URL="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2TS9FDGD4462S&lc=CA&item_name=vomer%40xda&item_number=vomerxdadonation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"][IMG]https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif[/IMG][/URL]
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2TS9FDGD4462S&lc=CA&item_name=vomer%40xda&item_number=vomerxdadonation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src=https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif></a>
 
-[B][COLOR="DeepSkyBlue"]# Installation Instructions:[/COLOR][/B]
+# Installation Instructions:
 
-[B]SETUP[/B]
+SETUP
 
 1) Create a folder named [B]vomertweaks[/B] on your internal storage. 
 
-[I]Note: the folder name should look exactly like it has been presented above (no caps)[/I]
+Note: the folder name should look exactly like it has been presented above (no caps)
 
 2) Download and place ONE vomertweaks shell script (either DUAL or QUAD) into the folder made above
 
-[I]Example: /sdcard/vomertweaks/VomerTweaks_DualMode.sh[/I]
+Example: /sdcard/vomertweaks/VomerTweaks_DualMode.sh
 
-[B]APPLICATION (Pick One)[/B]
+# APPLICATION (Pick One)
 
-[B]Method 1: init.d file application[/B]
+Method 1: init.d file application
 
 1) Download the VomerTweaks init.d script installer & flash it in TWRP/CWM recovery
 
-Note: Stock ROMs do not support init.d application. You will need to use [URL="https://play.google.com/store/apps/details?id=com.androguide.universal.init.d"]this app[/URL]
+Note: Stock ROMs do not support init.d application. You will need to use: https://play.google.com/store/apps/details?id=com.androguide.universal.init.d
 
-[B]Method 2: Tasker Profile[/B]
+Method 2: Tasker Profile
 
-You will need the Tasker app: [url]https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en[/url]
+You will need the Tasker app: https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en
 
-Import the Tasker profile provided and turn it on (how-to: [url]http://tasker.dinglisch.net/userguide/en/faqs/faq-how.html#q[/url])
+Import the Tasker profile provided and turn it on.
 
-[B]Method 3: Manual application via Terminal[/B]
+Method 3: Manual application via Terminal
 
-First, you will need this app: [url]https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en[/url]
+First, you will need this app: https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en
 
 Note: If you use this method - the script needs to be re-applied manually on every reboot
 
 Open the app and type this:
 
-[CODE]su
+su
 cd sdcard/vomertweaks
 sh VomerTweaks_DualMode_N6.sh (switch script name to your chosen one)
-[/CODE]
 
-[B][COLOR="DeepSkyBlue"]# Downloads:[/COLOR][/B]
+# DOWNLOADS
 
 VomerTweaks init.d script installer: [url]http://bit.ly/1HbxfoP[/url]
 
@@ -65,22 +64,22 @@ VomerTweaks init.d script un-installer: [url]http://bit.ly/1teD4cK[/url]
 
 VomerTweaks Tasker Profile: [url]http://bit.ly/1EC4zaC[/url]
 
-[B]Tweak Files[/B] ([COLOR="red"]only Franco.Kernel is currently supported[/COLOR]):
+Tweak Files (only Franco.Kernel is currently supported):
 
-[LIST]
 [*]Dual Mode (Keeps only 2 CPU cores active until you hit heavy CPU load) 
 [*]Quad Mode (Keeps all 4 CPU cores active at all times)
-[/LIST]
 
 - Scripts: [url]http://bit.ly/1Bfnx0R[/url]
 
-[B]How do I check if the setting applied?[/B]
+How do I check if the setting applied?
 
-Get this app: [url]https://play.google.com/store/apps/details?id=com.ryosoftware.cputweaks&hl=en[/url]
+Get this app: https://play.google.com/store/apps/details?id=com.ryosoftware.cputweaks&hl=en
 
-Check [URL="https://i.imgur.com/60j6SXS.png"]Max CPU[/URL] - it should be under-clocked.
+Check Max CPU - it should be under-clocked: 
 
-[B][COLOR="DeepSkyBlue"]# Additional Recommendations:[/COLOR][/B]
+<img src="https://i.imgur.com/60j6SXS.png">
 
-- [URL="https://play.google.com/store/apps/details?id=com.franco.kernel&hl=en"]Franco Kernel Updater[/URL]
-- [URL="https://play.google.com/store/apps/details?id=com.franco.perappmodes&hl=en"]Per-App Modes[/URL]
+# Additional Recommendations:
+
+Franco Kernel Updater: https://play.google.com/store/apps/details?id=com.franco.kernel&hl=en
+Per-App Modes: https://play.google.com/store/apps/details?id=com.franco.perappmodes&hl=en
