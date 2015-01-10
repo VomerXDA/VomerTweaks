@@ -66,8 +66,8 @@ VomerTweaks Tasker Profile: http://bit.ly/1EC4zaC
 
 Tweak Files (only Franco.Kernel is currently supported):
 
-[*]Dual Mode (Keeps only 2 CPU cores active until you hit heavy CPU load) 
-[*]Quad Mode (Keeps all 4 CPU cores active at all times)
+- Dual Mode (Keeps only 2 CPU cores active until you hit heavy CPU load) 
+- Quad Mode (Keeps all 4 CPU cores active at all times)
 
 - Scripts: [url]http://bit.ly/1Bfnx0R[/url]
 
