@@ -22,7 +22,7 @@ Look for these awesome folks on XDA Developers and send them a nice thank you:
 
 SETUP
 
-1) Create a folder named [B]vomertweaks[/B] on your internal storage. 
+1) Create a folder named <b>vomertweaks</b> on your internal storage. 
 
 Note: the folder name should look exactly like it has been presented above (no caps)
 
@@ -58,11 +58,11 @@ sh VomerTweaks_DualMode_N6.sh (switch script name to your chosen one)
 
 # DOWNLOADS
 
-VomerTweaks init.d script installer: [url]http://bit.ly/1HbxfoP[/url]
+VomerTweaks init.d script installer: http://bit.ly/1HbxfoP
 
-VomerTweaks init.d script un-installer: [url]http://bit.ly/1teD4cK[/url]
+VomerTweaks init.d script un-installer: http://bit.ly/1teD4cK
 
-VomerTweaks Tasker Profile: [url]http://bit.ly/1EC4zaC[/url]
+VomerTweaks Tasker Profile: http://bit.ly/1EC4zaC
 
 Tweak Files (only Franco.Kernel is currently supported):
 
@@ -82,4 +82,5 @@ Check Max CPU - it should be under-clocked:
 # Additional Recommendations:
 
 Franco Kernel Updater: https://play.google.com/store/apps/details?id=com.franco.kernel&hl=en
+
 Per-App Modes: https://play.google.com/store/apps/details?id=com.franco.perappmodes&hl=en
